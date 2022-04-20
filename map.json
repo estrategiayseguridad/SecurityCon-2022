@@ -26,7 +26,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"conference-room2.json#entry-from-lobby"
+                 "value":"conference-rom2.json#entry-from-lobby"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -87,7 +87,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":65,
          "x":0,
          "y":0
