@@ -77,7 +77,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"conference-room-1.json#entry-from-lobby"
+                         "value":"conference-room1.json#entry-from-lobby"
                         }],
                  "type":"tilelayer",
                  "visible":true,
