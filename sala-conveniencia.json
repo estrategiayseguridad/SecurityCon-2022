@@ -82,7 +82,7 @@
          "height":65,
          "id":87,
          "locked":true,
-         "name":"fondo",
+         "name":"fondo-mapa",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
