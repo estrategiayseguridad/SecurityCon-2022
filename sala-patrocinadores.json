@@ -381,7 +381,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"https:\/\/es.malwarebytes.com\/"
+                                 "value":"https:\/\/www.facebook.com\/plugins\/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMalwarebytes%2Fphotos%2Fa.10150740120906639%2F10160149776331639%2F&show_text=true"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -460,7 +460,6 @@
                  "x":0,
                  "y":0
                 }],
-         "locked":true,
          "name":"sponsor-L2",
          "opacity":1,
          "type":"group",
