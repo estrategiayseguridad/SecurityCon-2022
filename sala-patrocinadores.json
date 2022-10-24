@@ -548,6 +548,16 @@
                                  "name":"openTab",
                                  "type":"string",
                                  "value":"https:\/\/www.beyondtrust.com\/es\/"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Presiona Espacio "
                                 }],
                          "type":"tilelayer",
                          "visible":true,
