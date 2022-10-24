@@ -820,6 +820,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"openTab",
+                         "type":"string",
+                         "value":"https:\/\/es.consulting\/"
+                        }, 
+                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
