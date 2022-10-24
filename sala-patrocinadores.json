@@ -545,9 +545,9 @@
                          "opacity":1,
                          "properties":[
                                 {
-                                 "name":"openWebsite",
+                                 "name":"openTab",
                                  "type":"string",
-                                 "value":"https:\/\/www.facebook.com\/plugins\/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBeyondTrust%2Fphotos%2Fa.365463396821454%2F5269873816380363%2F&show_text=true"
+                                 "value":"https:\/\/www.beyondtrust.com\/es\/"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
