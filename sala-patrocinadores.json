@@ -698,7 +698,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Hola!, conoce APAC Zero Trust Priorities"
+                         "value":"Hola!, conoces APAC Zero Trust Priorities - Presiona Espacio Para ir al Sitio -"
                         }],
                  "type":"tilelayer",
                  "visible":true,
