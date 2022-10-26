@@ -15,7 +15,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"sala-conveniencia.json#entry-from-sala-patrocinadores"
+                         "value":"sala-conveniencia#entry-from-sala-patrocinadores"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -41,7 +41,6 @@
                  "x":0,
                  "y":0
                 }],
-         "locked":true,
          "name":"portal-sala-conveniencia",
          "opacity":1,
          "type":"group",
@@ -62,7 +61,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"conference-rom2.json#entry-from-sala-patrocinadores"
+                         "value":"conference-rom2#entry-from-sala-patrocinadores"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -88,7 +87,6 @@
                  "x":0,
                  "y":0
                 }],
-         "locked":true,
          "name":"portal-conf-room-2",
          "opacity":1,
          "type":"group",
@@ -127,7 +125,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.json#entry-from-sala-patrocinadores"
+                         "value":"map#entry-from-sala-patrocinadores"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -135,7 +133,6 @@
                  "x":0,
                  "y":0
                 }],
-         "locked":true,
          "name":"portal-lobby",
          "opacity":1,
          "type":"group",
